@@ -2,6 +2,8 @@
 # Azure CLI script to list resources ordered by creation date
 # This script shows all resources in your subscription, sorted by creation time
 
+# Use in development container or Codespaces
+
 # Prerequisites:
 # - Azure CLI installed and configured
 # - jq installed for JSON parsing
